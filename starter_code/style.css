@@ -1,6 +1,7 @@
 body {
   padding: 0;
   text-align: center;
+  overflow: hidden;
 }
 
 .game-intro {
